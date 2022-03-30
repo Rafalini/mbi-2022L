@@ -1,0 +1,7 @@
+file_1 ------ 400 nukleotydów ----- file_2
+Wariancja rozkładu odległości 20 (-v)
+
+##Task 1
+### Rozkłady błędów
+
+Im dalej od początku odczytu tym większa szansa że nukleotyd jest przekłamany
