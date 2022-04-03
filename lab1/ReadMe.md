@@ -2,8 +2,7 @@
 
 To run use
 
-``` $ ./runTasks.sh
-```
+``` $ ./runTasks.sh ```
 
 
 ## separate commands:
