@@ -3,8 +3,8 @@
 docker pull wkusmirek/pirs
 docker pull wkusmirek/dnaasm
 docker pull wkusmirek/quast
-# wget ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/270/065/GCF_000270065.1_ASM27006v1/GCF_000270065.1_ASM27006v1_genomic.fna.gz 
-# gzip -d GCF_000270065.1_ASM27006v1_genomic.fna.gz
+wget ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/270/065/GCF_000270065.1_ASM27006v1/GCF_000270065.1_ASM27006v1_genomic.fna.gz 
+gzip -d GCF_000270065.1_ASM27006v1_genomic.fna.gz
 
 mkdir -p output
 TARGET_DIR=/home/rafalini/git/mbi-2022L/lab1/output
